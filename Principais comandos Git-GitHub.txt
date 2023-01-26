@@ -1,0 +1,17 @@
+PARA SALVAR O REPOSITÓRIO NA MÁQUINA
+
+1º Clonar o repositório através dp link https ou chave SSH
+
+2º No Git Bash: git clone e colar o link do repositório
+
+3º No Git Bash: ir para o diretório do repositório na máquina
+
+
+
+PARA COMPARTILHAR ALTERÇÕES NOS ARQUIVOS DA MÁQUINA PARA O GITHUB
+
+1º No Git Bash: git add *
+2º No Git Bash: git commit -m "escrever uma mensagem"
+3º No Git Bash: git push origin main
+
+*MAIN: branch do GitHub que o arquivo será enviado
